@@ -1,0 +1,92 @@
+@media (max-width:768px){
+    .container{
+        width: 90%;
+    }
+
+    .header-nav{
+        display: none;
+    }
+
+    .header-end select{
+        display: none;
+    }
+    
+    .hero{
+        width: 700px;
+        height: 531px;
+    }
+
+    .hero-top h1 {
+        font-size: 20px;
+    
+    }
+
+    .hero-end{
+        width: 700px;
+        height: 230px;
+    }
+    .hero-1 h3{
+    font-size: 14px;
+    }
+
+    .hero-1 p{
+    font-size: 9px;
+    }
+
+    .hero-1 ion-icon{
+        font-size: 24px;
+    }
+
+    .hero-2 h3{
+        font-size: 14px;
+        }
+    
+        .hero-2 p{
+        font-size: 9px;
+        }
+    
+        .hero-2 ion-icon{
+            font-size: 24px;
+        }
+        .hero-3 h3{
+            font-size: 14px;
+            }
+        
+            .hero-3 p{
+            font-size: 9px;
+            }
+        
+            .hero-3 ion-icon{
+                font-size: 24px;
+            }
+
+            .hero-4 h3{
+                font-size: 14px;
+                }
+            
+                .hero-4 p{
+                font-size: 9px;
+                }
+            
+                .hero-4 ion-icon{
+                    font-size: 24p
+}
+
+.marc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 768px;
+    height: 1200px;
+}
+
+.amazon{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 760px;
+    height: 1200px;
+    border-radius: 13px;
+}
+
+}

@@ -1,4 +1,4 @@
-*{
+        *{
     padding: 0;
     margin: 0;
 }
@@ -616,6 +616,7 @@ body{
     display: flex;
     align-items:start;
     padding-left: 65px;
+    margin: 10px 0 30px 0;
 }
 
 .amazon2-btn button{
@@ -635,9 +636,11 @@ body{
 }
   
 .swiper {
-    width: 100%;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    padding-left: 70px;
+    margin: 10px 0 40px 0;
   }
 
   .swiper-slide {
@@ -722,7 +725,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 30px 0;
+    padding: 30px 0 70px 0;
  }
 
  .swiper-btn button{
